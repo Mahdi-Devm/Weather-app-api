@@ -9,7 +9,7 @@ Welcome to the Weather App API project! This API provides information about curr
 - Lightweight and efficient
 
 ## Demo 
-[demo](https://raw.githack.com/Mahdi-Devm/Weather-app-api/main/index.html))
+([demo](https://raw.githack.com/Mahdi-Devm/Weather-app-api/main/index.html))
 
 ## Installation 🔧
 To get started with the Weather App API, follow these steps:
