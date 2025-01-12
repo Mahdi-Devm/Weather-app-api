@@ -49,11 +49,6 @@ Bash
 ## Usage 📊
 After starting the server, you can access the API endpoints to get weather information. Here’s an example of how to use the API:
 
-JavaScript
-fetch('https://api.openweathermap.org/data/2.5/weather?q=${namecitr}&appid=2b2f2d4a6b5dd5aeac316a832015fccb')
-  .then(response => response.json())
-  .then(data => console.log(data));
-
 ## Contributing 🤝
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request.
 
