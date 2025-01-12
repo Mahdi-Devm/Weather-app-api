@@ -54,10 +54,6 @@ fetch('https://api.openweathermap.org/data/2.5/weather?q=${namecitr}&appid=2b2f2
   .then(response => response.json())
   .then(data => console.log(data));
 
-## API Endpoints 📍
-- /weather?city={city} - Get current weather data for the specified city.
-- /forecast?city={city} - Get the weather forecast for the specified city.
-
 ## Contributing 🤝
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request.
 
